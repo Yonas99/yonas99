@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Yonas. currently I am a second year software engineering student.
 
 <!--
 **Yonas99/yonas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
